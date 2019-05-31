@@ -30,7 +30,7 @@ MySpecialButton specialButton[]=new MySpecialButton[specialButtonText.length];
 Label displayLabel=new Label("0",Label.RIGHT);
 Label memLabel=new Label(" ",Label.RIGHT);
 
-final int FRAME_WIDTH=315,FRAME_HEIGHT=315;
+final int FRAME_WIDTH=310,FRAME_HEIGHT=310;
 final int HEIGHT=30, WIDTH=30, H_SPACE=10,V_SPACE=10;
 final int TOPX=30, TOPY=50;
 ///////////////////////////
