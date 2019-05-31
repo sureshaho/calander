@@ -3,7 +3,7 @@ Save this file as MyCalculator.java
 to compile it use
 	javac MyCalculator.java
 to use the calcuator do this
-	java MyCalculator
+	java MyCalculatoraaaa
 
 **********************************************/
 import java.awt.*;
